@@ -1,0 +1,11 @@
+D:\escuela\progra\data-structures-2\bin\Debug\netcoreapp3.1\data-structures-2.exe
+D:\escuela\progra\data-structures-2\bin\Debug\netcoreapp3.1\data-structures-2.deps.json
+D:\escuela\progra\data-structures-2\bin\Debug\netcoreapp3.1\data-structures-2.runtimeconfig.json
+D:\escuela\progra\data-structures-2\bin\Debug\netcoreapp3.1\data-structures-2.runtimeconfig.dev.json
+D:\escuela\progra\data-structures-2\bin\Debug\netcoreapp3.1\data-structures-2.dll
+D:\escuela\progra\data-structures-2\bin\Debug\netcoreapp3.1\data-structures-2.pdb
+D:\escuela\progra\data-structures-2\obj\Debug\netcoreapp3.1\data-structures-2.csprojAssemblyReference.cache
+D:\escuela\progra\data-structures-2\obj\Debug\netcoreapp3.1\data-structures-2.AssemblyInfoInputs.cache
+D:\escuela\progra\data-structures-2\obj\Debug\netcoreapp3.1\data-structures-2.AssemblyInfo.cs
+D:\escuela\progra\data-structures-2\obj\Debug\netcoreapp3.1\data-structures-2.dll
+D:\escuela\progra\data-structures-2\obj\Debug\netcoreapp3.1\data-structures-2.pdb
